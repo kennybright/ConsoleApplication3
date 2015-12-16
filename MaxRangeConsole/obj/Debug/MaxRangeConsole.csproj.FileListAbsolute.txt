@@ -1,0 +1,5 @@
+c:\users\kenny\documents\visual studio 2012\Projects\ConsoleApplication3\MaxRangeConsole\bin\Debug\MaxRangeConsole.exe.config
+c:\users\kenny\documents\visual studio 2012\Projects\ConsoleApplication3\MaxRangeConsole\bin\Debug\MaxRangeConsole.exe
+c:\users\kenny\documents\visual studio 2012\Projects\ConsoleApplication3\MaxRangeConsole\bin\Debug\MaxRangeConsole.pdb
+c:\users\kenny\documents\visual studio 2012\Projects\ConsoleApplication3\MaxRangeConsole\obj\Debug\MaxRangeConsole.exe
+c:\users\kenny\documents\visual studio 2012\Projects\ConsoleApplication3\MaxRangeConsole\obj\Debug\MaxRangeConsole.pdb
